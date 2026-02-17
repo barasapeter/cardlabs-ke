@@ -5,7 +5,7 @@ DOMAIN="beta.cardlabs.cloud"
 EMAIL="barasapeter52@gmail.com"
 REPO="https://github.com/barasapeter/cardlabs-ke.git"
 APP_DIR="/home/ubuntu/cardlabs-ke"
-DB_NAME="portfolio_blog"
+DB_NAME="db_name_replace_"
 SERVICE_NAME="fastapi"
 BIND_ADDR="127.0.0.1:8000"
 # ==============================
