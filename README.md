@@ -265,7 +265,7 @@ terraform apply
 
 On first boot, the EC2 instance runs `bootstrap.sh` automatically via `user_data` — configuring PostgreSQL, the Python environment, systemd, Nginx, and TLS without any manual steps.
 
-PS
+PS:
 Almost forgot. As of this writing, the business logic layer of this system is not yet publicly available. The infrastructure codebase — provisioned via Terraform on AWS ECS/EKS and managed through GitOps pipelines — has been open-sourced as a reference implementation. The remaining application source code is undergoing security hardening and compliance review prior to public release, including alignment with `PCI-DSS` controls, `KYC/AML` data handling requirements, and `OWASP` secure coding standards, all of which will be documented prior official release.
 usiness logic to be added incrementally. Subscribe to my newsletter at https://cardlabs.cloud to get new updates.
 
