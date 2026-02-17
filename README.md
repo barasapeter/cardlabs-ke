@@ -214,7 +214,7 @@ cardlabs/
 The fastest way to run the full stack locally — no need to install PostgreSQL manually.
 ```bash
 git clone https://github.com/barasapeter/cardlabs.git
-cd MyPortfolioNPersonalBlog
+cd cardlabs-ke
 
 cp .env.example .env          # fill in envs 
 docker compose up --build

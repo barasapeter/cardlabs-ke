@@ -6,7 +6,6 @@ PyPDF2
 pytz
 passlib
 pydantic_settings
-psycopg2
 jinja2
 python-multipart
 requests
@@ -16,7 +15,6 @@ pikepdf
 PyMuPDF
 opencv-python
 gunicorn
-uvicorn
 alembic
 psycopg2-binary
 filelock
