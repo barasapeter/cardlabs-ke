@@ -1,4 +1,4 @@
-# CARDLABS — Document Printing Coordination, Simplified
+# CardLabs: Document Printing Coordination, Simplified
 
 ## A Cloud-Native Engineering Miracle
 
