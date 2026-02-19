@@ -53,7 +53,7 @@ The class rep signs up, gets a unique collection link, and shares it with the cl
 
 ### Step 2 — Students open the link and upload their exam card PDF
 
-<img src="static/docs/hero-4.png" alt="Student upload screen" width=530, height=550/>
+<img src="static/docs/hero-4.png" alt="Student upload screen"/>
 
 No account needed. Students open the link, upload their exam card PDF, and confirm their submission in seconds.
 
@@ -61,7 +61,7 @@ No account needed. Students open the link, upload their exam card PDF, and confi
 
 ### Step 3 — Class rep tracks submissions and payments from the dashboard
 
-<img src="static/docs/hero-3.png" alt="Class rep dashboard" width=500, height=600/>
+<img src="static/docs/hero-3.png" alt="Class rep dashboard"/>
 
 The dashboard shows who has submitted, who hasn't, and payment status — all in one place, updating in real time.
 
@@ -95,7 +95,7 @@ Everyone walks in with a valid, stamped exam card. No last-minute scrambles, no 
 
 ### Step 7 — Transfer bargain benefits to your personal M-PESA account
 
-<img src="static/docs/hero-8.png" alt="Merged PDF download" width=500, height=600/>
+<img src="static/docs/hero-8.png" alt="Merged PDF download"/>
 
 Withdraw the bargain profits to your M-PESA.
 
