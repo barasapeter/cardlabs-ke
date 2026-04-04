@@ -4,7 +4,7 @@
 
 > **"We made a computer suffer, so you don't have to."**
 
-(*_Beta version is live at https://cardlabs.cloud_*)
+(*_Live version at https://cardlabs.cloud_*)
 
 <img src="static/docs/hero.png" alt="Home Page" width="600" height="400"/>
 
