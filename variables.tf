@@ -5,7 +5,7 @@ variable "region" {
 
 variable "instance_name" {
   type    = string
-  default = "portfolio-blog-machine"
+  default = "prod-machine-cardlabs"
 }
 
 variable "eip_public_ip" {
